@@ -15,15 +15,15 @@ We include a casestudy around FOMC meetings which shows that the market typicall
 
 ```bash
 # Clone the repository
-git clone https://github.com/Aman-Rana-02/Event_Studies_w_CA.git
-cd Event_Studies_w_CA
+git clone https://github.com/Aman-Rana-02/Event_Studies_with_Component_Analysis.git
+cd Event_Studies_with_Component_Analysis
 
 # Create and activate virtual environment
 python -m venv .venv
 source .venv/bin/activate  # Windows: .venv\Scripts\activate
 
 # Install dependencies
-pip install -e .
+pip install -r requirements.txt
 ```
 
 ## Features
