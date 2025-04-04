@@ -87,7 +87,6 @@ The repository includes detailed case studies to demonstrate the package's capab
   - `1.0.PCA_vs_ICA_illustrative.ipynb`: Illustrative examples with simulated data
   - `2.0.FOMC_case_study.ipynb`: Detailed case study of FOMC meetings - WITHOUT EventCA
   - `3.0.introducing_eventca.ipynb`: Introduction to the EventCA package, much cleaner and more organized
-- `references/`: Additional reference materials and example code
 
 ## Background
 
