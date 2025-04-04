@@ -4,7 +4,7 @@
 
 **EventCA requires only a time series of returns and a list of event dates to perform sophisticated event studies.**
 
-EventCA is a Python package that facilitates event studies using Principal Component Analysis (PCA) and Independent Component Analysis (ICA). The package provides tools to analyze market reactions around specific events, identify underlying patterns, and interpret results through powerful component analysis techniques.
+EventCA is a Python package that facilitates event studies using Principal Component Analysis (PCA) and Independent Component Analysis (ICA). The package provides tools to analyze market reactions around specific events, identify underlying patterns, and interpret results through statistical component analysis techniques.
 
 Event studies are widely used in finance and economics to assess the impact of specific events on market prices. EventCA extends traditional event study methodology by incorporating component analysis to identify latent patterns in market reactions.
 
