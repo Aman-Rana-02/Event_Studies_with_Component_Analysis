@@ -105,4 +105,8 @@ By applying component analysis techniques, EventCA can identify:
 - Interactive visualizations
 - Additional component analysis techniques
 
+## Statement on LLM usage
+Claude, ChatGPT and Github copilot were used extensively to produce docstrings, comments and code snippets.
+
 ## Contact
+I can be reached at aman.rana@mail.utoronto.ca
